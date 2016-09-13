@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/jiangsong/Documents/reactNative/8/jdApp-master/node_modules/react-native-camera/ios/RCTCameraManager.m \
+  /Users/jiangsong/Documents/reactNative/8/jdApp-master/node_modules/react-native-camera/ios/RCTCameraManager.h \
+  ../../react-native/React/Views/RCTViewManager.h \
+  ../../react-native/React/Base/RCTBridgeModule.h \
+  ../../react-native/React/Base/RCTDefines.h \
+  ../../react-native/React/Base/RCTConvert.h \
+  ../../react-native/React/Layout/Layout.h \
+  ../../react-native/React/Views/RCTAnimationType.h \
+  ../../react-native/React/Views/RCTBorderStyle.h \
+  ../../react-native/React/Views/RCTTextDecorationLineType.h \
+  ../../react-native/React/Base/RCTLog.h \
+  ../../react-native/React/Base/RCTAssert.h \
+  ../../react-native/React/Views/RCTPointerEvents.h \
+  ../../react-native/React/Base/RCTEventDispatcher.h \
+  ../../react-native/React/Base/RCTBridge.h \
+  ../../react-native/React/Base/RCTBridgeDelegate.h \
+  ../../react-native/React/Base/RCTFrameUpdate.h \
+  ../../react-native/React/Base/RCTInvalidating.h \
+  ../../react-native/React/Base/RCTJavaScriptExecutor.h \
+  ../../react-native/React/Views/UIView+React.h \
+  ../../react-native/React/Views/RCTComponent.h \
+  /Users/jiangsong/Documents/reactNative/8/jdApp-master/node_modules/react-native-camera/ios/RCTCamera.h \
+  /Users/jiangsong/Documents/reactNative/8/jdApp-master/node_modules/react-native-camera/ios/CameraFocusSquare.h \
+  ../../react-native/React/Base/RCTUtils.h \
+  /Users/jiangsong/Documents/reactNative/8/jdApp-master/node_modules/react-native-camera/ios/NSMutableDictionary+ImageMetadata.m
